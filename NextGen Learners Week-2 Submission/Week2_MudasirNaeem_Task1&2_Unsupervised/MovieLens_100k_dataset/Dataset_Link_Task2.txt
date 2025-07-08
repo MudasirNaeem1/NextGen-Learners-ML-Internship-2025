@@ -1,0 +1,10 @@
+You can download the dataset for task2 using provided link below:
+
+https://www.kaggle.com/datasets/ashukr/movie-rating-data
+
+movies.csv
+
+ratings.csv
+
+tags.csv (no use)
+ 
