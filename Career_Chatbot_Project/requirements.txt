@@ -1,0 +1,3 @@
+pip install datasets pandas scikit-learn streamlit joblib
+
+python should be installed and edit in enviournment variable.
