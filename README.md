@@ -281,7 +281,7 @@ graph TD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mudasir%20Naeem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudasir-naeem-698679303/)
 [![GitHub](https://img.shields.io/badge/GitHub-MudasirNaeem1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MudasirNaeem1)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirnaeem000@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mudasirnaeem000@gmail.com)
 
 ---
 </div>
